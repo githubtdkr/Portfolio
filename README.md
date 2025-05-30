@@ -40,24 +40,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" />
-</p>
-
----
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built an Innovative Project](https://medium.com/@yourusername/...)
-- [Top 5 Tips for GitHub Profiles](https://medium.com/@yourusername/...)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 
 ## 🤝 Let’s Connect!
 
